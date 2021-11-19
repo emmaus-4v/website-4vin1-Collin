@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #f5ff99c9;  
+    background-color: #eeffc5;  
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -39,6 +39,11 @@ footer {
 img.zweefLinks {
     float: left;
     margin-right: 15px;
+}
+
+img.zweefright{
+    float:right;
+    margin-left: 15px;
 }
 
 .smalltext {
