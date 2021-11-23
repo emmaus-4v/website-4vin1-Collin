@@ -18,31 +18,40 @@ main {
 
 
 article {
-    text-align: justify;
+    text-align: left;
 }
-
 
 header {
     color: rgb(0, 0, 0);
     text-align: center;
 }
 
-
 footer {
     text-align: center;
     padding-bottom: 10px;
+    position: absolute;
+    top:500px;
+    left:250px;
 }
 
+div footer {
+    text-align: center;
+    padding-bottom: 10px;
+    position: absolute;
+    top:500px;
+    left:250px;
+}
 
 /* specifieke stijlen */
 
 img.zweefLinks {
     float: left;
     margin-right: 15px;
+    margin-top:15px;
 }
 
-img.zweefright{
-    float:right;
+img.zweefright {
+    float: right;
     margin-left: 15px;
 }
 
