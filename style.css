@@ -1,4 +1,9 @@
 /* Basislayout */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
 html, body {
     height: 100%;
@@ -47,12 +52,15 @@ div footer {
 img.zweefLinks {
     float: left;
     margin-right: 15px;
-    margin-top:15px;
 }
 
 img.zweefright {
     float: right;
     margin-left: 15px;
+}
+
+.clearBoth {
+    clear: both;
 }
 
 .smalltext {
@@ -101,3 +109,6 @@ nav li a.active {
 
 
 
+#textblokje2 {
+    /*margin: 20px;*/
+}
