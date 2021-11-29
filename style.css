@@ -108,7 +108,8 @@ nav li a.active {
 
 
 
-
-#textblokje2 {
-    /*margin: 20px;*/
+.textstukje2 {
+    padding-top: 15px;
 }
+
+
