@@ -9,7 +9,6 @@ html, body {
     height: 100%;
     padding: 0;
     background-color: #eeffc5;  
-    
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
 }
@@ -28,12 +27,19 @@ article {
 
 header {
     color: rgb(0, 0, 0);
+    /*
     text-align: center;
+    min-height: 55px;
+    margin:30px 10px 10px 10px!important;
+    */
+    display: flex;
+    justify-content: center;
+    padding: 20px;
 }
 
 footer {
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom:10px;
     position: absolute;
     top:500px;
     left:250px;
