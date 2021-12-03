@@ -118,4 +118,13 @@ nav li a.active {
     padding-top: 15px;
 }
 
+#WorldbuildingPage {
+    background-image: url("afbeeldingen/genshinmap.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 
+#WorldbuildingPage main {
+    background-color: #eeffc5;
+}
