@@ -127,3 +127,13 @@ nav li a.active {
     margin :15px;
     clear: both;
 }
+
+.pichelegenshinmap {
+        display: block;
+        margin-left: auto;
+        margin-right: auto 
+}
+
+#texthelegenshinmap {
+    padding-bottom:15px;
+}
