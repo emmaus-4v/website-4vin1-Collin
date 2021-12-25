@@ -84,7 +84,6 @@ nav ul {
     padding: 0;
     background-color: #ffa8a8;
     overflow: hidden;
-    width:100px
 }
 
 nav ul li {
@@ -97,7 +96,6 @@ nav li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    width: 100px;
 }
 
 nav li a:hover {
